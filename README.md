@@ -61,6 +61,3 @@ The system also provides precautionary guidance, health article summaries, and g
 - CSV files (initial)  
 - Scalable to SQL systems
 
----
-
-## 📂 Project Structure  
