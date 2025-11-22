@@ -9,7 +9,7 @@ The system also provides precautionary guidance, health articles, and visual cha
       --ML model (Naïve Bayes) predicts the most probable disease.
       --Fast response time (< 3 seconds).
 2. Doctor Recommendation System
-      --Maps predicted disease to the correct medical specialty.
+      --Maps predicted disease to the correct medical specialty./n
      --Suggests relevant departments (e.g., Cardiology, Neurology).
       --Precautions Display
       --Shows general precautionary steps based on predicted disease.
